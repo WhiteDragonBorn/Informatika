@@ -1,2 +1,3 @@
-# Informatika
- smth smdy
+# Информатика ЕГЭ
+Разбор заданий ЕГЭ на изыке Python 
+
