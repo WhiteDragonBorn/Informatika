@@ -1,0 +1,96 @@
+{
+  "main": {
+    "id": "643dfec2cff8787a",
+    "type": "split",
+    "children": [
+      {
+        "id": "b9d320d738998234",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Задания/Перевод логических операторов.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3169ca58bc1c6ed2",
+    "type": "split",
+    "children": [
+      {
+        "id": "32517dbe8d92938c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "641a16ddee785918",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "ff73e105cad3f76b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "395ad73b25c90680",
+    "type": "split",
+    "children": [
+      {
+        "id": "b5e236a3e38cbbe8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e316b763e6b29a79",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Задания/Перевод логических операторов.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "b9d320d738998234",
+  "lastOpenFiles": [
+    "Задания/Перевод логических операторов.md",
+    "Задания/Второе задание. Логические операторы.md",
+    "README.md",
+    "FLASH Сборник _Реальные задания ЕГЭ информатика 2021_ 1.1.pdf"
+  ]
+}
